@@ -232,7 +232,7 @@ Paper: https://www.microsoft.com/en-us/research/publication/author2vec-learning-
 <hr>
 
 
-**author2vec 2**
+**author2vec (2)**
 
 Paper: https://arxiv.org/abs/2003.11627
 
